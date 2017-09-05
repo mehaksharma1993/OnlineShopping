@@ -37,7 +37,7 @@
 			<version>${spring.version}</version>
 		</dependency>
 
-		<!-- Spring 4.3.7.RELEASE -->
+		<!-- Spring 4.3.9.RELEASE -->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
